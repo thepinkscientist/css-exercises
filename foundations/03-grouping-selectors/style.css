@@ -1,0 +1,16 @@
+/* style.css */
+
+.black_white{
+    background-color: black;
+    color: white;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.black_white,
+.yellow{
+    font-size: 28px;
+    font-family: "Helvetica", "Time New Roman", sans-serif;
+}
